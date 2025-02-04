@@ -1,0 +1,14 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/akarex/ros2_ws/install/my_robot_controller/lib/python3.12/site-packages",
+        "/home/akarex/ros2_ws/install/camera_subscriber/lib/python3.12/site-packages",
+        "/home/akarex/ros2_ws/install/camera_publisher/lib/python3.12/site-packages",
+        "/opt/ros/jazzy/lib/python3.12/site-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/akarex/ros2_ws/install/my_robot_controller/lib/python3.12/site-packages",
+        "/home/akarex/ros2_ws/install/camera_subscriber/lib/python3.12/site-packages",
+        "/home/akarex/ros2_ws/install/camera_publisher/lib/python3.12/site-packages",
+        "/opt/ros/jazzy/lib/python3.12/site-packages"
+    ]
+}
