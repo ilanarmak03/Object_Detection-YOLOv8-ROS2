@@ -17,10 +17,6 @@ This project integrates ROS2 to interface with a camera for real-time image capt
 * Ultralytics YOLOv8: Install via pip install ultralytics
 * NumPy: Install via pip install numpy
 
-### Note
-
-* Make sure the virtual environment is activated prior to running.
-
 
 ## Authors
 
