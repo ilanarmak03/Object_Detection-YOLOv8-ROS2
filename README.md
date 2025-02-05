@@ -34,4 +34,4 @@ Ali Kamran
 
 * [ROS2 Jazzy](https://docs.ros.org/en/jazzy/index.html)
 * [YOLOv8](https://github.com/ultralytics/ultralytics/blob/main/docs/en/models/yolov8.md)
-* [OpenCV] (https://docs.opencv.org/4.x/index.html)
+* [OpenCV](https://docs.opencv.org/4.x/index.html)
